@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tracker-app/static/css/main.e8028e31.css",
+    "main.js": "/react-tracker-app/static/js/main.e0d471f6.js",
+    "index.html": "/react-tracker-app/index.html",
+    "main.e8028e31.css.map": "/react-tracker-app/static/css/main.e8028e31.css.map",
+    "main.e0d471f6.js.map": "/react-tracker-app/static/js/main.e0d471f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8028e31.css",
+    "static/js/main.e0d471f6.js"
+  ]
+}
